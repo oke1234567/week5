@@ -1,0 +1,27 @@
+.p1 
+{
+    
+    background-color: yellow;
+    color: black;
+}
+.p2
+{
+    color: red;
+    background-color: rgb(255, 255, 0);
+}
+.p3
+{
+    color: white;
+    background-color: black;
+    font-size: 25px;
+    font-family: "Times New Roman";
+    font-style: italic;
+}
+.cho
+{
+    text-align: center;
+    text-decoration: underline;
+}
+*
+{
+    font-family: "Comic Sans MS", cursive;}
